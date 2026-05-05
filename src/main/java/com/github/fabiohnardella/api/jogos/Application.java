@@ -1,4 +1,4 @@
-package com.github.gabrielAugustosc.api.jogos;
+package com.github.fabiohnardella.api.jogos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
